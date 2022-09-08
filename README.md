@@ -9,7 +9,7 @@
 Before I was working at Utah State University (USA) in the biotechnology field, but I decided to move back to Brazil .</p>
 <div width="100%" align="center"><img width="150em" height="150em" src="https://user-images.githubusercontent.com/12978815/171694044-4abff9a6-ca81-4584-a752-73e2139059f7.gif" /></div>
 
-I also noticed I tended to better enjoy my computer work rather than my lab work when I was a researcher. I found the Driven Education Bootcamp  while doing a random search on internet and now here I am becoming a full-stack web developer!
+I also noticed I tended to better enjoy my computer work rather than my lab work when I was a researcher. I found the Driven Education Bootcamp  while searching about web development on internet and now here I am becoming a full-stack web developer!
 <div width="100%" align="center"><img align="center" width="150em" height="150em" src="https://user-images.githubusercontent.com/12978815/171696093-ac0025fd-895f-42d9-a2fa-163b185382fb.gif" /></div>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/carolxaviersilva/](https://www.linkedin.com/in/carolxaviersilva/)
