@@ -1,21 +1,19 @@
 ## Hi there. Welcome to my GitHub profile! 👋 
-### My name is Carol Xavier (she/her/hers), a full-stack web developer (a work in progress...)!
+### My name is Carol Xavier (she/her/hers).
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=carol-xavier&label=Profile%20views&color=0e75b6&style=flat" alt="carol-xavier" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carol-xavier" alt="carol-xavier" /></a> </p> -->
 
-<p>I am currently going through a career transition from biotechnology to full-stack web development. 
-Before I was working at Utah State University (USA) in the biotechnology field, but I decided to move back to Brazil .</p>
-<div width="100%" align="center"><img width="150em" height="150em" src="https://user-images.githubusercontent.com/12978815/171694044-4abff9a6-ca81-4584-a752-73e2139059f7.gif" /></div>
+<p>I went through a career transition from biotechnology to IT. I finished a bootcamp in web fullstack development, where I learned a lot about soft skils, JavaScript, ReactJS, NodeJS, MongoDB, PostgreSQL... I currently work with operations monitoring, checking if everything is okay with the API requests. To accomplish this, I create new dashboards to follow our product metrics and sales (lots of SQL!).</p>
 
-I also noticed I tended to better enjoy my computer work rather than my lab work when I was a researcher. I found the Driven Education Bootcamp  while searching about web development on internet and now here I am becoming a full-stack web developer!
+I noticed I tend to better enjoy working with data and programming. Therefore, I started studying data engineering!
 <div width="100%" align="center"><img align="center" width="150em" height="150em" src="https://user-images.githubusercontent.com/12978815/171696093-ac0025fd-895f-42d9-a2fa-163b185382fb.gif" /></div>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/carolxaviersilva/](https://www.linkedin.com/in/carolxaviersilva/)
 - ⚡ Fun fact **My first overseas trip lasted 4 years**
-- 🌱 I am currently learning **NodeJS, PostgreSQL, and Soft Skills**
-- 🎓 I finish with the bootcamp in October 2022
+- 🌱 I am currently learning **Python**
+<!-- - 🎓 I finish with the bootcamp in October 2022 -->
 
 <h3 align="left">Languages and Tools:</h3>
 
