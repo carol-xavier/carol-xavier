@@ -7,7 +7,7 @@
 
 <p>I went through a career transition from biotechnology to IT. I finished a bootcamp in web fullstack development, where I learned a lot about soft skils, JavaScript, ReactJS, NodeJS, MongoDB, PostgreSQL... I currently work with operations monitoring, checking if everything is okay with the API requests. To accomplish this, I create new dashboards to follow our product metrics and sales (lots of SQL!).</p>
 
-I noticed I tend to better enjoy working with data and programming. Therefore, I started studying data engineering!
+I look forward to combine these skills to projects with purpose!
 <div width="100%" align="center"><img align="center" width="150em" height="150em" src="https://user-images.githubusercontent.com/12978815/171696093-ac0025fd-895f-42d9-a2fa-163b185382fb.gif" /></div>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/carolxaviersilva/](https://www.linkedin.com/in/carolxaviersilva/)
